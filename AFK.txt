@@ -1,0 +1,5 @@
+{
+	"ip":"BLACKzySMPe.aternos.me",
+	"port": "61581",
+	"name": "afkbot"
+}
